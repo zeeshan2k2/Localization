@@ -1,1 +1,1 @@
-localization in Swift
+localization in Swift.
